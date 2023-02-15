@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Post Users</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d340fc39-7b63-4db6-b414-5fa82a0997bb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8a64780a-534b-426c-a03d-69aa3ef969a9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1f60b13e-b788-4cd0-a935-cc941e6ef015</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0c34a603-a072-42a5-acd3-bd1af15afa4b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>8a64780a-534b-426c-a03d-69aa3ef969a9</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+   <variable>
+      <defaultValue>'email@gmail.com'</defaultValue>
+      <description></description>
+      <id>1f60b13e-b788-4cd0-a935-cc941e6ef015</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>0c34a603-a072-42a5-acd3-bd1af15afa4b</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

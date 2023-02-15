@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get Users</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2d31da6-2086-42d0-b050-64eda18efc13</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d92c9b2d-a1fc-4881-84f6-432ba85bb6f3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>d92c9b2d-a1fc-4881-84f6-432ba85bb6f3</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+</TestCaseEntity>
